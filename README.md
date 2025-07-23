@@ -1,7 +1,10 @@
 ## Hi there 👋
-
+I'm TenebrisOS, a beginner developer. I mainly use Python, C, and Dart to create cool programs. I’m looking forward to learn other programming languages, primarily Rust for low-level memory safety and java.
+I currently use dart more than anything else and most of my time, i work on [Nots](https://github.com/TenebrisOS/Nots)
 <!--
 **TenebrisOS/TenebrisOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
