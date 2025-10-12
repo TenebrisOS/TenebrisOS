@@ -52,5 +52,3 @@ Here are some of the projects I've been working on:
 </div>
 
 ---
-
-⭐ Find more on my [GitHub profile](https://github.com/TenebrisOS)
