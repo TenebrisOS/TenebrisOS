@@ -21,17 +21,3 @@ I’m learning **Rust** and **Java**, and currently spend most of my time workin
 
 ---
 
-### 📦 Repositories
-
-Here are some of the projects I've been working on:
-
-<div align="center">
-  
-| Project | Description |
-|----------|--------------|
-| [**Nots**](https://github.com/TenebrisOS/Nots) | Open-source notes app with encrypted self hosted storage |
-| [**M-Verus**](https://github.com/TenebrisOS/M-Verus) | Mobile app for verus.farm |
-| [**Locats**](https://github.com/TenebrisOS/Locats) | Detect and identify nearby Wi-Fi devices |
-| [**Prototype-Werizzy**](https://github.com/TenebrisOS/Prototype-Werizzy) | Locates devices' positions in large networks |
-
-</div>
