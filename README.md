@@ -35,20 +35,3 @@ Here are some of the projects I've been working on:
 | [**Prototype-Werizzy**](https://github.com/TenebrisOS/Prototype-Werizzy) | Locates devices' positions in large networks |
 
 </div>
-
----
-
-### 🚀 Upcoming Projects
-
-<div align="center">
-  
-| Project | Description |
-|----------|--------------|
-| [**MobileMarauder**](https://github.com/TenebrisOS/MobileMarauder) | Android app for ESP32 Marauder control |
-| [**Navidio**](https://github.com/TenebrisOS/Navidio) | Music player inspired by Auxio with Navidrome support |
-| [**Werizzy**](https://github.com/TenebrisOS/Werizzy) | Android app for Prototype-Werizzy |
-| [**Controlls**](https://github.com/TenebrisOS/Controlls) | Mobile controller app for PS3’s WebMAN Mod |
-
-</div>
-
----
