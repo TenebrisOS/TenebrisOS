@@ -1,8 +1,8 @@
 # 👋 Hi there
 
-I'm **TenebrisOS**, a beginner developer.  
-I mainly use **Python**, **C**, and **Dart** to create cool programs.  
-I’m learning **Rust** and **Java**, and currently spend most of my time working on **Locats**.
+I'm TenebrisOS, a beginner developer.  
+I mainly use Python, C, and Dart to create cool programs.  
+I’m learning Rust and Java, and currently spend most of my time working on some private projects.
 
 ---
 
